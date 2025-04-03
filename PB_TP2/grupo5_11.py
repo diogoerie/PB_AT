@@ -1,5 +1,5 @@
 import random
-from exercicio501 import contar_tempo, soma_sequencial, soma_paralela
+from grupo5_1 import contar_tempo, soma_sequencial, soma_paralela
 
 lista_numeros = [random.randint(1, 1000) for _ in range(100)]
 
